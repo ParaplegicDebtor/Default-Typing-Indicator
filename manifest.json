@@ -1,0 +1,1 @@
+{"name":"Default Typing","description":"Removes custom typing indicators (emoji, animations, silly words) so you only see the normal \"is typing...\". Can also hide typing entirely.","authors":[{"name":"You","id":"0"}],"main":"index.js","hash":"b41bd567eb17f5ba87f5c07aafb0c1f20d0abfb194a2897ae01836f1d6563f48","vendetta":{"icon":"ic_message_edit"}}
